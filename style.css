@@ -1,0 +1,9 @@
+html, body {
+  margin: 10;
+  padding: 10;
+}
+canvas{
+  border: 4mm ridge rgb(207, 81, 159);
+  margin-top: 50px;
+  margin-left: 350px;
+}
